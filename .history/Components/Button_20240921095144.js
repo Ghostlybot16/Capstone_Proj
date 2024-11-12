@@ -1,0 +1,1 @@
+import { StyleSheet, pre } from "react-native";
